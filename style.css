@@ -1,0 +1,20 @@
+html {
+  background-color: #7a6662;
+  font-family: 'Courier New', monospace;
+}
+
+canvas {
+  background-color: #000000;
+}
+
+.wrapper {
+  background-color: #544f4e;
+}
+
+.header {
+  text-allign: center;
+}
+
+.body {
+  background-color: #786460;
+}
